@@ -1,5 +1,8 @@
 # Case Study: Spotify Family Special 60-Day Trial
 
+## Question
+You're a Product Manager for an on-demand Spotify music streaming service. Recently, the service offered a 60-day free trial to attract more active users for its family subscription plan. What would you do to measure the performance of the free trial program?
+
 ## Objective
 Introduce a special 60-day free trial for Spotify Family subscription to attract new families and increase long-term subscriptions.
 
@@ -34,7 +37,7 @@ Introduce promotional campaigns highlighting the exclusive 60-day trial, targeti
 
 ## AARRR Framework for Spotify Family Plan Subscription
 
-#### Acquisition:
+### Acquisition:
 **Metrics:**
 1. **New Sign-Ups:** Number of users subscribing to the Spotify Family Plan.
 2. **Channel Performance:** Evaluation of acquisition sources (social media, referrals, organic search) based on the number of conversions.
@@ -49,7 +52,7 @@ Introduce promotional campaigns highlighting the exclusive 60-day trial, targeti
 4. **Offer Incentives:** Introduce referral rewards or promotional offers to encourage sign-ups.
 5. **Improve Landing Pages:** Enhance subscription page UI/UX to reduce bounce rates and boost conversions.
 
-#### Activation:
+### Activation:
 **Metrics:**
 1. **Active Users:** Number of users actively utilizing the features within the Spotify Family Plan.
 2. **Engagement Metrics:** Metrics such as listening hours, playlist creations, and profile settings per user.
@@ -64,7 +67,7 @@ Introduce promotional campaigns highlighting the exclusive 60-day trial, targeti
 4. **In-App Tutorials:** Implement tutorials or guides within the app to educate users about features.
 5. **Feedback Loop:** Gather feedback from users to improve and tailor features to their preferences.
 
-#### Retention:
+### Retention:
 **Metrics:**
 1. **Renewal Rate:** Percentage of users renewing their Spotify Family Plan subscription.
 2. **Upgrade Rate:** Number of trial users upgrading to paid subscribers within the Family Plan.
@@ -79,7 +82,7 @@ Introduce promotional campaigns highlighting the exclusive 60-day trial, targeti
 4. **Re-Engagement Campaigns:** Create campaigns to win back churned users with special offers.
 5. **Feedback Implementation:** Implement changes based on customer feedback to enhance satisfaction and retention.
 
-#### Referral:
+### Referral:
 **Metrics:**
 1. **Referral Count:** Number of new Spotify Family Plan users referred by existing subscribers.
 2. **Conversion Rate of Referrals:** Percentage of referred users becoming active subscribers.
@@ -94,7 +97,7 @@ Introduce promotional campaigns highlighting the exclusive 60-day trial, targeti
 4. **Tracking Referral Sources:** Identify and focus efforts on the most successful referral channels.
 5. **Referral Program Awareness:** Educate users about the benefits of referrals and how to participate.
 
-#### Revenue:
+### Revenue:
 **Metrics:**
 1. **Total Revenue:** Overall income generated from Spotify Family Plan subscriptions.
 2. **Lifetime Value (LTV):** Predicted revenue from a user throughout their subscription.
