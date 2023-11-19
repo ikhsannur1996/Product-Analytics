@@ -40,10 +40,10 @@ Conversion rates based on the provided numbers to App Opens:
 
 ### Conversion Rate
 Conversion rates based on the provided numbers in each action:
-App Opens to User Registrations: 80% (100% app opens, 80% registrations)
-User Registrations to Product Views: 87.5% (80% registrations, 70% product views)
-Product Views to Items Added to Cart: 81.82% (70% product views, 50% items added to cart)
-Items Added to Cart to Orders Completed: 72% (50% items added to cart, 36% orders completed)
+- App Opens to User Registrations: 80% (100% app opens, 80% registrations)
+- User Registrations to Product Views: 87.5% (80% registrations, 70% product views)
+- Product Views to Items Added to Cart: 81.82% (70% product views, 50% items added to cart)
+- Items Added to Cart to Orders Completed: 72% (50% items added to cart, 36% orders completed)
 
 ### Insights:
 
