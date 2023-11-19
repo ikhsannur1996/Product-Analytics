@@ -26,6 +26,9 @@ Flash Coffee is a rapidly expanding coffee chain originating in Asia, focusing o
 4. **Items Added to Cart:** 25,000
 5. **Orders Completed:** 18,000
 
+![Exploring User Conversions in the Flash Coffee App](https://github.com/ikhsannur1996/Product-Analytics/assets/32507742/7197700a-802a-494b-9bf6-12f81b46b184)
+
+
 ### Insights:
 
 1. **Engagement Levels:**
