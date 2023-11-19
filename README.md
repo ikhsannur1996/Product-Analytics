@@ -6,6 +6,9 @@ You're a Product Manager for an on-demand Spotify music streaming service. Recen
 ## Objective
 Introduce a special 60-day free trial for Spotify Family subscription to attract new families and increase long-term subscriptions.
 
+![image](https://github.com/ikhsannur1996/Product-Analytics/assets/32507742/ab5d2a81-e7a3-4ec1-9087-f0d36426f310)
+
+
 ## Approach
 
 ### 1. Extended Free Trial
